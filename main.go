@@ -1,6 +1,5 @@
 /*
-Copyright © 2024 NAME HERE <EMAIL ADDRESS>
-
+Copyright © 2024 Stiamprie <stiamprie@gmail.com>
 */
 package main
 
